@@ -1,2 +1,3 @@
 def test_multi():
-    assert 1==1
+    assert 1 == 1
+    
