@@ -1,1 +1,2 @@
-assert 1==1
+def test_multi():
+    assert 1==1
